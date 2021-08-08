@@ -26,4 +26,4 @@ mount /dev/sda6 $backup_dir/
 arch-chroot $my_dir/
 
 # do backup bash history comands and others:
-cat $home_dir/.$my_shell'_history' > backup_dir/.$my_shell'_history'
+cat $home_dir/.$my_shell'_history' >> backup_dir/.$my_shell'_history'
