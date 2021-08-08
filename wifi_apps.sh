@@ -4,7 +4,7 @@
 my_dir=/mnt
 
 
-# INSTALL/UPDATE WiFi apps on your linux-PK:
+# INSTALL/UPDATE WIFI APPS:
 
 # check this deamons:
 systemctl check systemd-networkd systemd-resolved iwd
