@@ -1,4 +1,5 @@
-cd game-z
+#!/usr/bin/etc bash
+cd game-/
 git checkout
-git pull
+git push
 cd ..
