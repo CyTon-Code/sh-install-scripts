@@ -1,4 +1,3 @@
-pacman -Syy
-pacman -S git -y
+pacman -Syy git -y
 sh git_login.h
 
