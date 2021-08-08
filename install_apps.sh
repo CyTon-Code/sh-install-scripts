@@ -1,8 +1,9 @@
 #!/usr/bin/bash
 
-pacman -Syy
-pacman -S man less sed sudo cat
-bash get_git.h
-bash get_micro.h
+bash get_wifi.sh
+pacman -Syy man less sed sudo cat
+bash get_git.sh
+bash get_micro.sh
 
 pacman -S wget w3m fff
+
