@@ -11,5 +11,6 @@ If you like them, that's fine. B-]
 
 
 #### List:
+- [Translating this README.md in README.html file](https://example.com/)
 - [Connecting to WiFi in life-Linux mode](https://example.com/)
 - [Connecting to WiFi on Hard-Disk in life-Linux mode](https://example.com/)
