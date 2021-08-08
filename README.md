@@ -13,5 +13,5 @@ If you like them, that's fine. B-]
 ##### Tools:
 - [Translating this README.md file into README.html](readme.sh)
 ##### Wifi:
-- [Connecting to WiFi in life-Linux mode](https://example.com/)
-- [Connecting to WiFi on your hard drive in life-Linux mode](https://example.com/)
+- [Connecting to WiFi](https://example.com/)
+- [Install WiFi tools on your hard drive in life-Linux mode](https://example.com/)
