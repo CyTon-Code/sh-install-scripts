@@ -1,4 +1,3 @@
-pacman -Syy
-pacman -S micro -y
+pacman -Syy micro -y
 export EDITOR=micro
 
