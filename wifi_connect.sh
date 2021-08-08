@@ -7,6 +7,12 @@ your_WiFi="TP-LINK_2B62"
 wlan=wlan0
 phy=phy0
 
+# RUN TOOLS:
+
+#
+iwctl adapter $phy set-property Powered on
+#
+iwctl device $wlan set-property Powered on
 
 # CONNECT:
 
