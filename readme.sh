@@ -1,3 +1,3 @@
-pacman -S markdown
+pacman -Syy markdown
 markdown README.md > README.html
 
