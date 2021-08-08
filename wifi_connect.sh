@@ -14,7 +14,7 @@ iwctl station $wlan scan
 iwctl station $wlan connect $your_WiFi
 
 # test wifi connect:
-ping -c 4 google.com
+ping -c 2 google.com
 
 
 
