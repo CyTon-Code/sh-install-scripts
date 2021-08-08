@@ -20,6 +20,6 @@ iwctl station $wlan connect $your_WiFi
 
 # TEST YOUR WIFI CONNECT:
 
-# send to google MSG and back:
+# send to google 2 MSGS and back:
 ping -c 2 google.com
 
